@@ -9,4 +9,3 @@ function DisplayDate() {
     
     alert(YYYY + "/" + MM + "/" + DD);
   }
-  
