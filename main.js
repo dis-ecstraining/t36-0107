@@ -10,6 +10,6 @@ function DisplayDate() {
     alert(YYYY + "/" + MM + "/" + DD);
   }
 
-  function Hello() {
+  function Hello2() {
     alert("Hello");
   }
